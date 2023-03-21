@@ -24,7 +24,7 @@ Windows or Linux
  
  实验步骤与内容：
 1.首先安装两个需要使用的软件node.js和Git。
-![https://github.com/sszkj/sszkj.github.io/blob/master/%E5%9B%BE%E7%89%871.png](https://github.com/sszkj/sszkj.github.io/blob/master/%E5%9B%BE%E7%89%871.png)
+![https://github.com/sszkj/sszkj.github.io/blob/master/source/_posts/%E5%AE%9E%E9%AA%8C3.2%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%871.png](https://github.com/sszkj/sszkj.github.io/blob/master/source/_posts/%E5%AE%9E%E9%AA%8C3.2%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%871.png)
 ![图片2.png](https://github.com/sszkj/sszkj.github.io/blob/master/%E5%9B%BE%E7%89%872.png)
 安装完成之后，发现两者已自动修改了环境变量，通过cmd命令查看两者版本并确认是否安装成功及可以使用，通过node -v来查看Node.js版本，通过git --version来查看Git版本。
 ![图片3.png](https://github.com/sszkj/sszkj.github.io/blob/master/%E5%9B%BE%E7%89%873.png)
