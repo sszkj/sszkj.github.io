@@ -24,7 +24,7 @@ Windows or Linux
  
  实验步骤与内容：
 1.首先安装两个需要使用的软件node.js和Git。
-
+![avatar](C:\Users\张凯军\Desktop\云计算\实验\实验3.2图片\图片1.png)
 
 安装完成之后，发现两者已自动修改了环境变量，通过cmd命令查看两者版本并确认是否安装成功及可以使用，通过node -v来查看Node.js版本，通过git --version来查看Git版本。
 
